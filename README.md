@@ -8,7 +8,7 @@
 
 PersonaChat is a free and open-sourced system which allows you to easily chat with a limitless number of customizable personalities. Using quantization, PersonaChat can achieve decent speeds on consumer hardware without GPUs.
 
-### How does it work?
+### How does it work?
 
 Currently, PersonaChat uses an un-finetuned LLM. We are currently using OpenLLaMA 7B, a 7 billion parameter model trained on 1 trillion tokens from the RedPajama dataset. Unlike the original LLaMA, OpenLLaMA is licensed under the Apache 2.0 license, a permissive license.
 
