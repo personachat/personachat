@@ -1,3 +1,5 @@
+Further development has been [moved to Codeberg](https://codeberg.org/personachat/personachat).
+
 # PersonaChat
 
 ## About
