@@ -1,4 +1,4 @@
-Further development has been [moved to Codeberg](https://codeberg.org/personachat/personachat).
+Further development has been [moved to Codeberg](https://codeberg.org/personachat/personachat). We're also working on the second generation of PersonaChat, featuring new chat-tuned models and more. Check out our Codeberg page for status!
 
 # PersonaChat
 
